@@ -1,5 +1,5 @@
 # 手动封装的DOM库
-提供以下3个接口
+现有以下3个接口
 ## 1.dom.find()
 ```javascript
 dom.find('selector')
